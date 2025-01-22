@@ -8,7 +8,7 @@ const Login = () => {
             <h1 style={{color:'red',backgroundColor:'yellow'}}>Login page</h1>
             <TextField id="a5" label="Username" variant="outlined" /><br></br><br></br>
     <TextField id="a6" label="Password" variant="outlined" /><br></br>
-   <br></br> <Button  variant="contained">Login page</Button></div>
+   <br></br> <Button  variant="contained">Loginage</Button></div>
     </div>
   )
 }
