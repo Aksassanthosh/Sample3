@@ -1,7 +1,7 @@
 import { Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material'
 import React from 'react'
 const data=[
-    {"NAME":"Aksa","COURSE":"Btech","PLACE":"kollam","ADRRESS":"anjali"},
+    {"NAME":"fathima","COURSE":"Btech","PLACE":"kollam","ADRRESS":"anjali"},
     {"NAME":"sredha","COURSE":"Bca","PLACE":"pta","ADRRESS":"sruthi bhavan"},
     {"NAME":"Gopika","COURSE":"Btech","PLACE":"Tvm","ADRRESS":"gopika villa"}
 ]
