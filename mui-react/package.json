@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Aksassanthosh.github.io/sample3",
+  "homepage": "https://Aksassanthosh.github.io/Sample3",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
